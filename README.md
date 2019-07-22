@@ -1,19 +1,19 @@
 # what-is-where
 log keeping
 
-[ ] ssh -Y pradalma@gwln1.pha.jhu.edu
+[x] ssh -Y pradalma@gwln1.pha.jhu.edu
 
-[ ] ssh -Y dsp006
+[x] ssh -Y dsp006
 
-[ ] cd /datascope/pradal-esm/MOM6
+[x] cd /datascope/pradal-esm/MOM6
 
-[ ] scp -r pradalma@login.hhpc.jhu.edu:/scratch0/anand-fs1/*MOM6* .
+[x] scp -r pradalma@login.hhpc.jhu.edu:/scratch0/anand-fs1/*MOM6* .
 
 
 Climatologies:
 
 [x] fvis_true.1600-1799.ocean.nc
-[ ] fvis_true.1600-1799.atmos.nc
+[x] fvis_true.1600-1799.atmos.nc
 [ ] fvis_true.1600-1799.ice.nc
 
 [x] trop.1650-1949.ocean.nc

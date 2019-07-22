@@ -1,6 +1,12 @@
 # what-is-where
 log keeping
 
+------------------------------------------------------------------------
+cleaning up HHPC
+
+[ ] rm Eshwan's files (ask sys admin)
+
+[ ] rm Will's files (ask sys admin)
 
 [x] ssh -Y pradalma@gwln1.pha.jhu.edu
 

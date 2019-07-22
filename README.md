@@ -24,11 +24,8 @@ Climatologies:
 
 [ ] trop.1650-1949.ice.ncacdm_doubling_1860.1900-1999.ocean.nc
 
-[x] newCO2_800_control.1900-2199.ocean.nc
+[x] newCO2_800_control.1900-2199.ocean.nc      [x] newCO2_800_control.1900-2199.atmos.nc     [x] newCO2_800_control.1900-2199.ice.nc
 
-[x] newCO2_800_control.1900-2199.atmos.nc
-
-[x] newCO2_800_control.1900-2199.ice.nc
 
 
 [x] acdm_control.1900-2199.ocean.nc

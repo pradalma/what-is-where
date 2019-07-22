@@ -1,6 +1,7 @@
 # what-is-where
 log keeping
 
+
 [x] ssh -Y pradalma@gwln1.pha.jhu.edu
 
 [x] ssh -Y dsp006
@@ -11,6 +12,8 @@ log keeping
 
 
 Climatologies:
+
+ON /datascope/pradal-esm
 
 [x] fvis_true.1600-1799.ocean.nc
 
